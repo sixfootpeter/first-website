@@ -88,15 +88,5 @@
     </span>
   </div>
 
-<script src="coding practice/js/script.js" charset="utf-8"></script>
-<script src="coding practice/js/jquery-3.2.1.min.js" charset="utf-8"></script>
-<script src="coding practice/css/bootstrap.min.css" charset="utf-8"></script>
-<script src="coding practice/js/nvshrink.js"></script>
-
-<script>
-$(function () {
-});
-</script>
-
 </body>
 </html>
