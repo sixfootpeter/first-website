@@ -1,0 +1,2 @@
+# first-website
+Trying to learn to code. Have started a website for practice by redoing my employers website. I am having trouble getting the navbar to work in css. I had it looking right but after trying to get hover to work now my styling has gone haywire. I believe it is a specificity or cascade problem but I can not nail down what I am missing. Any help would be greatly appreciated and should not take an experienced developer more than a few minutes. Thanks in advance.
